@@ -20,7 +20,7 @@ namespace DemoProject
         private void btnClickThis_Click(object sender, EventArgs e)
         {
             lblHelloWorld.Text = "Hello World!";
-            //btnClickThis.BackColor = Color.Green;
+            btnClickThis.BackColor = Color.Green;
         }
 
         private void MainForm_Load(object sender, EventArgs e)
