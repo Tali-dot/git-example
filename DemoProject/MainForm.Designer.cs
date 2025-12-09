@@ -59,7 +59,7 @@ namespace DemoProject
 			this.Controls.Add(this.lblHelloWorld);
 			this.Controls.Add(this.btnClickThis);
 			this.Name = "MainForm";
-			this.Text = "Demo Project";
+			this.Text = "-Demo Project-";
 			this.Load += new System.EventHandler(this.MainForm_Load);
 			this.ResumeLayout(false);
 			this.PerformLayout();
